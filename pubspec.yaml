@@ -14,13 +14,13 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-cupertino_icons: ^1.0.6
+cupertino_icons: ^1.0.5
   wakelock: ^0.6.2
   meta: ^1.11.0
   flutter_widget_from_html_core: ^0.14.11
   visibility_detector: ^0.4.0+2
   path_provider: ^2.1.2
-  collection: ^1.18.0
+  collection: ^1.15.0
   xml: ^6.5.0
 
 dev_dependencies:
